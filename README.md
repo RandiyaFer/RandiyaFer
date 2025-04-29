@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Randiya
+- 👋 Hi, I’m Pamindu Randiya
 - 👀 I’m interested in software development, cloud computing, and automation
 - 🌱 I’m currently learning AWS, microservices, and DevOps
 - 💞️ I’m looking to collaborate on open-source projects, backend development, and cloud-based applications
